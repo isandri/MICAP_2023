@@ -246,10 +246,9 @@ void main (void) {
 }
 
 void ISR_ext1 (void) __interrupt 2 
-{
-	  delay_ms(20);
+{    
     count++;
-    IE1 = 0; // Zera flag de interrupção
     delay_ms(20);
+    IE1 = 0; // Zera flag de interrupção
 }
 
