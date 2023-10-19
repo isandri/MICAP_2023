@@ -1,5 +1,5 @@
 // MICAP T01 2023/2
-// Arq17-Ex1 (17/10/2023)
+// Arq13-Ex1 (19/10/2023)
 // Escrito por Isadora S. Silva e Mateus B. Cassiano
 
 #include "config.c"
@@ -9,7 +9,7 @@
 #include <string.h>
 
 
-// Assinatura das funções auxiliares
+// Assinatura das funÃ§Ãµes auxiliares
 void delay_ms(unsigned int);
 void delay_us(unsigned int);
 void putchar(char);
@@ -17,7 +17,7 @@ void putchar(char);
 
 
 //-----------------------------------------------------------------------------
-// Código específico do  Arq17-Ex1
+// CÃ³digo especÃ­fico do  Arq13-Ex1
 
 
 
